@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Likhitha Talatam</h1>
 
 <h3 align="center">Computer Science Student | MERN Stack Developer | Python Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;MERN+Stack+Developer;Python+Developer;Open+to+Software+Developer+Roles" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/likhitha-talatam/">
@@ -55,17 +58,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🌟Featured Projects
 
-### Freelance Finder
-A MERN Stack platform connecting freelancers and clients with project management and real-time chat features.
+🚀 Freelance Finder
+A MERN Stack freelance marketplace connecting clients and freelancers through project posting, proposal management, real-time chat, and project tracking.
 
-### Portfolio Website
-Personal portfolio showcasing projects, skills, and achievements.
+📊 Cosmetic Insights Dashboard
+A Tableau-powered analytics dashboard that explores cosmetics industry trends, consumer behavior, and market insights through interactive visualizations.
 
-### AI-Driven Credit Delinquency Analysis
-Performed EDA and predictive analytics to identify credit risk patterns.
-
+🎥 AI Smart CCTV Attendance System
+An AI-based attendance management system that uses CCTV footage and facial recognition to automate classroom attendance efficiently.
 ---
 
 ## 📊 GitHub Statistics
@@ -87,7 +89,7 @@ Performed EDA and predictive analytics to identify credit risk patterns.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=likhithatalatam&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=likhithatalatam&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
