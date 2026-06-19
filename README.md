@@ -46,6 +46,11 @@
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### APIs & Architecture
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,6 +73,7 @@ A Tableau-powered analytics dashboard that explores cosmetics industry trends, c
 
 🎥 AI Smart CCTV Attendance System
 An AI-based attendance management system that uses CCTV footage and facial recognition to automate classroom attendance efficiently.
+
 ---
 
 ## 📊 GitHub Statistics
